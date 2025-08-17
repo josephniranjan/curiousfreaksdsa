@@ -1,4 +1,4 @@
-package curiousfreaksdsa;
+package warmuppractice.problem1;
 import java.util.*;
 
 public class UserInputs {
